@@ -1,0 +1,8 @@
+{
+    "tabWidth": 4,
+    "singleQuote": true,
+    "semi": true,
+    "no-prose-wrap": true,
+    "trailingComma": "es5",
+    "extends": ["tslint:latest", "tslint-config-prettier"]
+}

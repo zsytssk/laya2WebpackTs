@@ -1,0 +1,5 @@
+<page>
+   <item name="test/TestScene.scene" props="" ifExport="分离模式" aName=""/>
+   <item name="login.scene" props="" ifExport="默认" aName="登录"/>
+   <item name="start.scene" props="" ifExport="默认" aName="开始"/>
+</page>

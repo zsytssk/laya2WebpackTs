@@ -1,0 +1,18 @@
+{
+    "compilerOptions": {
+        "allowJs": true,
+        "experimentalDecorators": true,
+        "module": "commonjs",
+        "moduleResolution": "node",
+        "resolveJsonModule": true,
+        "target": "es6",
+        "skipDefaultLibCheck": true,
+        "skipLibCheck": true,
+        "noEmitHelpers": false,
+        "sourceMap": true,
+        "watch": true,
+        "baseUrl": "./",
+        "outDir": "bin/js"
+    },
+    "include": ["src", "libs"]
+}

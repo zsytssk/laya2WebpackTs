@@ -1,0 +1,17 @@
+﻿node_modules/
+
+/.laya/
+!/.laya/gulpfile.js
+!/.laya/launch.json
+!/.laya/publish.js
+
+release/
+/bin/**
+!/bin/libs/**
+!/bin/index.html
+!/bin/index.js
+.DS_Store
+/src/ui/layaMaxUI.ts
+
+#IDE编译调试的会修改此文件格式
+/src/GameConfig.ts
